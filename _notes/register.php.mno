@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Display1" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_Display2" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_Display3" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_Display4" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_EventDay1" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_EventDay2" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_EventDay3" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+</info>

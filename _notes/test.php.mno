@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_EventList" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+	<infoitem key="UD_EventDay" value="name:eventname;datatype:string,name:eventid;datatype:int,name:eventtype;datatype:string,name:eventday;datatype:int" />
+</info>
